@@ -1,1 +1,0 @@
-This is a sample file to check poll SCM trigger
